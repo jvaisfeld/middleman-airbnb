@@ -1,0 +1,39 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  detailed_description: "This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur."
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  detailed_description: "Small but cosy place right in the center of Tokyo."
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  detailed_description: "3 mins from Piccadilly - what do u want more??"
+# jvaisfeld:
+#   name: Joe's place
+#   description: Nice flat in Rio
+#   city_name: "Rio, Brasil"
+#   city_slug: "rio"
+#   wifi: false
+#   rating: 1
+#   detailed_description: "dont get this room, its dirty and ugly"
+# xtine88:
+#   name: Christine's place
+#   description: Nice flat in L.A.
+#   city_name: "Los Angeles, USA"
+#   city_slug: "la"
+#   wifi: true
+#   rating: 5
